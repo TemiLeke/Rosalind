@@ -7,6 +7,6 @@ Given an RNA string s=s1…sn, a bonding graph for s is formed as follows. First
 
 Note that a matching contained in the basepair edges will represent one possibility for base pairing interactions in s, as shown in Figure 5. For such a matching to exist, s must have the same number of occurrences of 'A' as 'U' and the same number of occurrences of 'C' as 'G'.
 
-Given: An RNA string s of length at most 80 bp having the same number of occurrences of 'A' as 'U' and the same number of occurrences of 'C' as 'G'.
+* Given: An RNA string s of length at most 80 bp having the same number of occurrences of 'A' as 'U' and the same number of occurrences of 'C' as 'G'.
 
-Return: The total possible number of perfect matchings of basepair edges in the bonding graph of s.
+* Return: The total possible number of perfect matchings of basepair edges in the bonding graph of s.
