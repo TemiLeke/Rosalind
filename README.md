@@ -11,4 +11,4 @@ Solution to problems in https://rosalind.info/problems
 
 | Problem  | Name | Python | SQL | MATLAB | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Problem 1  | [Calculating Protein Mass](https://rosalind.info/problems/prtm/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/Calculating%20Protein%20Mass.ipynb) | ||
+| Problem 1  | [Calculating Protein Mass](https://rosalind.info/problems/prtm/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/Calculating%20Protein%20Mass.ipynb) | |
