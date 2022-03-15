@@ -34,8 +34,8 @@ Solution to problems in https://rosalind.info/problems
 | Problem 21 | [Overlap Graphs](https://rosalind.info/problems/grph/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/AppliedBioinformatics.ipynb) | |
 | Problem 22 | [Calculating Expected Offspring](https://rosalind.info/problems/iev/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/AppliedBioinformatics.ipynb) | |
 | Problem 23 | [Inferring mRNA from Protein](https://rosalind.info/problems/mrna/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/AppliedBioinformatics.ipynb) | |
-| Problem 24 | [Inferring mRNA from Protein](https://rosalind.info/problems/mrna/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/AppliedBioinformatics.ipynb) | |
-| Problem 25 | [Introduction to Random Strings](https://rosalind.info/problems/prob/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/Introduction%20to%20Random%20Strings.ipynb) | |
+| Problem 24 | [Introduction to Random Strings](https://rosalind.info/problems/prob/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/Introduction%20to%20Random%20Strings.ipynb) | |
+| Problem 24 | [Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/) | [Solution](https://github.com/TemiLeke/Rosalind/blob/main/Enumerating%20Oriented%20Gene%20Orderings.ipynb) | |
 
 
 
